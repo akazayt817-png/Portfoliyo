@@ -1,0 +1,1 @@
+- [x] Edit App.jsx to import Home component and render it
